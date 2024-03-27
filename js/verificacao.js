@@ -1,0 +1,1 @@
+var produto = window.document.getElementById('produto').value;
